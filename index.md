@@ -5,7 +5,7 @@ ADCIRC Surge Guidance System (ASGS) run for Eastern Florida
 <img align="top" src="/img/NASA_NOAA.jpg">
 
 ## NAM Cycle
-Cycle July 12 2017 00 UTC, Click [here](/Cycle/cycle2017071200.html)
+Cycle July 12 2017 00 UTC, Click [here](cycle2017071200.html)
 
 ## Computational Resource
 
