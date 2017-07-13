@@ -3,7 +3,6 @@
 ADCIRC Surge Guidance System (ASGS) run for Eastern Florida
 
 <img src="http://www.nhc.noaa.gov/xgtwo/two_atl_2d0.png">
-
 source [National Hurricane Center (NHC)](www.nhc.noaa.gov)
 
 ## NAM Cycle
