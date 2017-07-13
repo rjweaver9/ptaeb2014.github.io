@@ -5,7 +5,7 @@ ADCIRC Surge Guidance System (ASGS) run for Eastern Florida
 <img align="top" src="/img/NASA_NOAA.jpg">
 
 ## NAM Cycle
-For the latest forecast cycle click [here](latest_cycle.html)
+For the latest forecast cycle click [here](/latest_cycle.html)
 
 ## Computational Resource
 
