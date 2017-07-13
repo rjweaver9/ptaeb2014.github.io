@@ -3,6 +3,7 @@
 ADCIRC Surge Guidance System (ASGS) run for Eastern Florida
 
 <img src="http://www.nhc.noaa.gov/xgtwo/two_atl_2d0.png">
+
 source [National Hurricane Center (NHC)](www.nhc.noaa.gov)
 
 ## NAM Cycle
@@ -16,7 +17,6 @@ Tropical Cyclone run on machine Coconut on 48 nodes during e tropical cyclone ac
 
 ## Contributors
 
-Rober J Weaver                                            
-
 Peyman Taeb 
 
+Rober J Weaver
