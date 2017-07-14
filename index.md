@@ -9,7 +9,7 @@ source [National Hurricane Center (NHC)](www.nhc.noaa.gov)
 # NAM Cycle: Latest forecast
 
 <p align="center">
-  <img src="/EW_Trident_Pier.png">
+  <img src="/W_Trident_Pier.png">
 </p>
 
 <img align="left" src="/plot20001.jpg" height="790">
