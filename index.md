@@ -13,10 +13,10 @@ source [National Hurricane Center (NHC)](www.nhc.noaa.gov)
 </p>
 
 <img align="left" src="/plot20001.jpg" height="790">
+
 <img align="right" src="/plot30001.jpg" height="790" >
 
-
-### For more plots of the latest forecast cycle click [here](/latest/latest_cycle.md)
+For more plots of the latest forecast cycle click [here](/latest/latest_cycle.md)
 
 ## Computational Resource
 
