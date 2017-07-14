@@ -16,7 +16,7 @@ source [National Hurricane Center (NHC)](http:\\nhc.noaa.gov)
 <img align="right" src="/plots/plot30001.jpg" height="790" >
 Left: Maximum Surface Elevation (m)   Right: Maximum Wave Height (m)
 
-For more plots of the latest forecast cycle click [here](/latest/latest_cycle.md)
+*For more plots of the latest forecast cycle click [here](/latest/latest_cycle.md)*
 
 ## Computational Resource
 North America Meso-scale (NAM) model run on machine Pelican on 24 nodes 2 cycles per day, 
