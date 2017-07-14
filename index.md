@@ -9,11 +9,11 @@ source [National Hurricane Center (NHC)](http:\\nhc.noaa.gov)
 # NAM Cycle: Latest forecast
 
 <p align="center">
-  <img src="/EW_Trident_Pier.png">
+  <img src="/plots/EW_Trident_Pier.png">
 </p>
 
-<img align="left" src="/plot20001.jpg" height="790">
-<img align="right" src="/plot30001.jpg" height="790" >
+<img align="left" src="/plots/plot20001.jpg" height="790">
+<img align="right" src="/plots/plot30001.jpg" height="790" >
 Left: Maximum Surface Elevation (m)   Right: Maximum Wave Height (m)
 
 For more plots of the latest forecast cycle click [here](/latest/latest_cycle.md)
