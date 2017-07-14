@@ -12,7 +12,7 @@
   <img align="top" src="/EW_Lansing_Island.png" width="600">
 </p>
 
-### (top) Time Series of Surface elevation (m) and (Bottom) Wind Speed (m/s) at Melbourne
+### (Top) Time Series of Surface elevation (m) and (Bottom) Wind Speed (m/s) at Melbourne
 
 <p align="center">
   <img align="top" src="/EW_Melbourne_Cause_way.png" width="600">
