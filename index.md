@@ -3,7 +3,7 @@
 ASGS run for the East Central Florida Coast IRL focused on Brevard County
 
 <img src="http://www.nhc.noaa.gov/xgtwo/two_atl_2d0.png">
-source [National Hurricane Center (NHC)](www.nhc.noaa.gov)
+source [National Hurricane Center (NHC)](http:\\nhc.noaa.gov)
 
 
 # NAM Cycle: Latest forecast
