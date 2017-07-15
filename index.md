@@ -19,9 +19,11 @@ Left: Maximum Surface Elevation (m)   Right: Maximum Wave Height (m)
 *For more plots of the latest forecast cycle click [here](/latest/latest_cycle.md)*
 
 ## Computational Resource
+
 North America Meso-scale (NAM) model run on machine Pelican on 24 nodes 2 cycles per day, 
 
 Tropical Cyclone run on machine Coconut on 48 nodes during e tropical cyclone activity in Atlantic Basin,
+
 ## Contributors
 
 Peyman Taeb 
