@@ -22,10 +22,10 @@ Left: Maximum Surface Elevation (m)   Right: Maximum Wave Height (m)
 
 North America Meso-scale (NAM) model run on machine Pelican on 24 nodes 2 cycles per day, 
 
-Tropical Cyclone run on machine Coconut on 48 nodes during e tropical cyclone activity in Atlantic Basin,
+Tropical Cyclone run on machine Coconut on 48 nodes during tropical cyclone activity in Atlantic Basin,
 
 ## Contributors
 
 Peyman Taeb 
 
-Rober J Weaver
+Robert J Weaver, Ph.D.
